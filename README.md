@@ -1,6 +1,6 @@
 # My Notes For Studying 📚
 
 **Python:**
-+ Asyncio
++ [Asyncio](https://github.com/KochetkovAlEX/Notes/blob/main/Asyncio.md)
 + Pydantic
 + FastAPI
